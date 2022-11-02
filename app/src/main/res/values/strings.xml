@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SharedPreferences</string>
+    <string name="fecha_visita">Ultima Visita: %s</string>
+    <string name="num_visitas">Visitas: %d</string>
 </resources>
